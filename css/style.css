@@ -70,6 +70,11 @@ nav {
   cursor: pointer;
 }
 
+.home .card:hover {
+  transform: scale(1.05);
+  filter: grayscale(0);
+}
+
 /*& ******************** Details Section Style ******************** */
 .details {
   background-color: #272729be;
